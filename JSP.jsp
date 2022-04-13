@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>Shiran Yosef</h1>
-<h1>Eden Biton</h1>
+<h1>Eden Biton2</h1>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 </body>
 </html>
